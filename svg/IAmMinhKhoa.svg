@@ -3,13 +3,15 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         @keyframes spinAround {
+	  0% { background-position: 0 0 }
 	  100% { background-position: 355px 0 }
-          0% { background-position: 0 0 }
+          
           
         }
         @keyframes stars {
-          0% { background-position: 0 100% }
+          
           100% { background-position: 0 0 }
+	0% { background-position: 0 100% }
         }
         @keyframes typing {
           from { width: 0 }

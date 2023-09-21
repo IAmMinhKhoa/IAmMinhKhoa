@@ -26,7 +26,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Adobe Premiere-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Visual Studio " title="Primiere" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma" title="Figma" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>

@@ -7,7 +7,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=FF0000" alt="c# logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=E85C33" alt="c# logo" title="C#" height="25" /></span>
 &nbsp;
 
 

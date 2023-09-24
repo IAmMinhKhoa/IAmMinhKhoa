@@ -9,9 +9,12 @@
 
 <span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=E85C33" alt="c# logo" title="C#" height="25" /></span>
 &nbsp;
-
-
-
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="c logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=3CBDB1" alt="c logo" title="C++" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=gitea&logoColor=C2AD6F" alt="c logo" title="Java" height="25" /></span>
+&nbsp;
 <!--BREAK DOWN -->
 
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
@@ -26,10 +29,17 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Adobe Premiere-282C34?logo=adobepremierepro&logoColor=9999FF" alt="Visual Studio " title="Primiere" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Adobe Maya-282C34?logo=adobe&logoColor=F36633" alt="Figma" title="Adobe Maya" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma" title="Figma" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Figma" title="Canva" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Spine Animation-282C34?logo=ethiopianairlines&logoColor=F36633" alt="Figma" title="Spnie Animation" height="25" /></span>
+&nbsp;
+
+
+
 
 
 <br>
